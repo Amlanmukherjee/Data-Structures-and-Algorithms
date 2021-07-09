@@ -1,0 +1,11 @@
+Select operation :          Enter 0 to exit.
+1. Push()
+2. Pop()
+3. isEmpty()
+4. isFull()
+5.Peek()
+6.Count()
+7.Display()
+8.Clear Screen
+
+Enter a proper operation number.
